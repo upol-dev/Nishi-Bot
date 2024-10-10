@@ -38,16 +38,21 @@ module.exports = {
 
   langs: {
     en: {
-      help: `╭─『 AI & IMAGE GENERATOR 』
-╰✧gpt ✧imagine ✧genix 
-╰✧niy ✧flux ✧sdxl ✧rl
-╰✧prodia ✧hercai ✧fx
+      help: `╭─『 AI & IMAGE GENERATOR 』   
+╰✧gpt ✧hercau
+╰✧niy ✧sdxl
+╰✧prodia ✧genix 
+╰✧fx ✧rl ✧flux 
+╰✧imagine ✧xl
+
 ╭─『 UPDATED BANK 』
 ╰✧bank 
 ╰ Type bank <to see available bank actions>
+
 ╭─『 GOAT COMMANDS STORE 』
-╰✧store
-╭─『 ADMIN & BOT INFO 』
+╰✧store 
+
+╭─『 ADMIN & BOT INFO 』 
 ╰✧info ✧up\n\n╭─『  » Total Cmds %4 cmds.\n│ » Type %5help <cmd> to learn.\n├────────◊\n│ %6\n╰───────────◊`,
       help2: "%1├───────✧\n│ » Currently, the bot has %2 commands that can be used\n│ » Total Cmds: %3 \n│ %4\n╰─────────────✧",
       commandNotFound: "Command \"%1\" does not exist",
