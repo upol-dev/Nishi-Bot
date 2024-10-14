@@ -47,10 +47,10 @@ module.exports = {
 
 ╭─『 UPDATED BANK 』
 ╰✧bank 
-╰ Type bank <to see available bank actions>
 
 ╭─『 GOAT COMMANDS STORE 』
-╰✧store 
+╰✧store ❌ 
+╰ Store is not available 
 
 ╭─『 ADMIN & BOT INFO 』 
 ╰✧info ✧up\n\n╭─『  » Total Cmds %4 cmds.\n│ » Type %5help <cmd> to learn.\n├────────◊\n│ %6\n╰───────────◊`,
